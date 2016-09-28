@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>loading_phrase</key>
+        <value>Loading Details…</value>
+    </entry>
+    <entry>
+        <key>bg_color</key>
+        <value>#F6C510</value>
+    </entry>
+    <entry>
+        <key>text1_title</key>
+        <value>Terms of Use</value>
+    </entry>
+    <entry>
+        <key>text2_title</key>
+        <value>Usage:\nThe Terms-of-Service Agreement is mainly used for legal purposes by websites and internet service providers that store a user's personal data, such as e-commerce and social networking services. A legitimate terms-of-service agreement is legally binding and may be subject to change.[2]</value>
+    </entry>
+    <entry>
+        <key>text3_title</key>
+        <value>Content: A terms-of-service agreement typically contains sections pertaining to one or more of the following topics:
+
+            Disambiguation/definition of key words and phrases
+            User rights and responsibilities
+            Proper or expected usage; potential misuse
+            Accountability for online actions, behavior, and conduct
+            Privacy policy outlining the use of personal data
+            Payment details such as membership or subscription fees, etc.
+            Opt-out policy describing procedure for account termination, if available
+            Disclaimer/Limitation of Liability clarifying the site's legal liability for damages incurred by users
+            User notification upon modification of terms, if offered</value>
+    </entry>
+    <entry>
+        <key>img_path</key>
+        <value>http://livehdwallpaper.com/wp-content/uploads/2016/02/Beautiful-Scenery-Wallpapers-HD-Pictures.jpg</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

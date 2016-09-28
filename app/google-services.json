@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "580782345127",
+    "firebase_url": "https://configtest-81128.firebaseio.com",
+    "project_id": "configtest-81128",
+    "storage_bucket": "configtest-81128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580782345127:android:2b467a1179be7f07",
+        "android_client_info": {
+          "package_name": "com.bhive.configtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580782345127-fbragrec59d65s50sg45d6rghgoqk7bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4LqICMJ_eu1YPSBjLCQQQwIw-GycXilg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
